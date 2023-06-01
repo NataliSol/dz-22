@@ -40,4 +40,7 @@ public abstract class Person {
     abstract boolean isRetired();
 
     abstract void deregisterPartnership();
+
+    public void setAge(int age) {
+    }
 }
